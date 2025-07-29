@@ -1,7 +1,10 @@
-## Hi there 👋
 
+# Hackathons
+- 1st Place Inrix/ASW Hack: https://github.com/Firewire-INRIX/backend
+
+## Languages
+- Zig! C, Rust, Swift, Python, Kotlin, Elixir and many more! 
 <!--
-**gingerfocus/gingerfocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
